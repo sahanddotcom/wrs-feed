@@ -5,13 +5,14 @@
     <link>https://worldradio.ch/news/bitesize-news/</link>
     <description>Moderator-approved World Radio Switzerland news bulletins.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 07:14:57 +0000</lastBuildDate>
+    <copyright>© 2026 World Radio Switzerland</copyright>
+    <lastBuildDate>Fri, 26 Jun 2026 06:51:06 +0000</lastBuildDate>
     <atom:link href="https://sahanddotcom.github.io/wrs-feed/bitesize.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WRS feed test item — please ignore</title>
       <link>https://worldradio.ch/feed-test/aiir-import-check</link>
       <guid isPermaLink="false">wrs-0e372df702c47c41</guid>
-      <pubDate>Mon, 22 Jun 2026 07:14:57 +0000</pubDate>
+      <pubDate>Fri, 26 Jun 2026 06:51:06 +0000</pubDate>
       <description>This is a connectivity test for the WRS → Aiir RSS import. If you can see this in the throwaway News category, the feed pipeline works. It will roll off once real bulletins start flowing.</description>
       <content:encoded><![CDATA[<p>This is a connectivity test for the WRS → Aiir RSS import. If you can see this in the throwaway News category, the feed pipeline works. It will roll off once real bulletins start flowing.</p>]]></content:encoded>
     </item>
