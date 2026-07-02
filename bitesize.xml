@@ -6,7 +6,31 @@
     <description>Moderator-approved World Radio Switzerland news bulletins.</description>
     <language>en</language>
     <copyright>© 2026 World Radio Switzerland</copyright>
-    <lastBuildDate>Fri, 26 Jun 2026 07:07:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 05:11:07 +0000</lastBuildDate>
     <atom:link href="https://sahanddotcom.github.io/wrs-feed/bitesize.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geneva to impose bar capacity limits after Crans-Montana fire</title>
+      <link>https://www.blick.ch/fr/fr/suisse/romande/crans-montana-geneve-va-imposer-une-jauge-aux-bars-id22074991.html</link>
+      <guid isPermaLink="false">wrs-1e206bf5cb55f9a7</guid>
+      <pubDate>Thu, 02 Jul 2026 05:11:07 +0000</pubDate>
+      <description>Geneva will introduce compulsory capacity limits at every small entertainment venue in the canton, six months after the Crans-Montana bar fire on New Year's Day. Environment minister Nicolas Walder said no formal capacity rule existed for sites holding under 300 people before 2023 — a "weakness in the system" the deadly fire exposed. Owners of 2,734 affected venues will be asked to declare their capacity based on the number, size and location of exits. Bars and restaurants that host more than twelve entertainment nights a year — around 7% of establishments — will have to meet the stricter fire-safety rules that apply to nightclubs. The new rules take effect on 1 January.</description>
+      <content:encoded><![CDATA[<p>Geneva will introduce compulsory capacity limits at every small entertainment venue in the canton, six months after the Crans-Montana bar fire on New Year's Day. Environment minister Nicolas Walder said no formal capacity rule existed for sites holding under 300 people before 2023 — a "weakness in the system" the deadly fire exposed. Owners of 2,734 affected venues will be asked to declare their capacity based on the number, size and location of exits. Bars and restaurants that host more than twelve entertainment nights a year — around 7% of establishments — will have to meet the stricter fire-safety rules that apply to nightclubs. The new rules take effect on 1 January.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Geneva residents demand action on airport noise as summer peaks</title>
+      <link>https://www.rts.ch/info/regions/geneve/2026/article/aeroport-de-geneve-les-riverains-exigent-des-mesures-contre-le-bruit-29290926.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">wrs-d778c62cba66b39b</guid>
+      <pubDate>Thu, 02 Jul 2026 05:11:07 +0000</pubDate>
+      <description>A coalition representing 180,000 residents around Geneva Airport is demanding urgent action against noise, with summer traffic set to rise 10% over July and August. The group, known as CARPE, blames low-cost airlines for early-morning takeoffs and late-night landings, and says the resulting insomnia and hypertension are hurting residents' health. Only fifty buildings a year are currently being soundproofed — a rate the coalition calls far too slow. It wants nighttime landing quotas with fines for offending airlines, plus a progressive tax on the loudest aircraft. Geneva Airport says night landings are already down 1% in 2025 and 5% so far this year.</description>
+      <content:encoded><![CDATA[<p>A coalition representing 180,000 residents around Geneva Airport is demanding urgent action against noise, with summer traffic set to rise 10% over July and August. The group, known as CARPE, blames low-cost airlines for early-morning takeoffs and late-night landings, and says the resulting insomnia and hypertension are hurting residents' health. Only fifty buildings a year are currently being soundproofed — a rate the coalition calls far too slow. It wants nighttime landing quotas with fines for offending airlines, plus a progressive tax on the loudest aircraft. Geneva Airport says night landings are already down 1% in 2025 and 5% so far this year.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Six months after Crans-Montana fire, 25 victims still in hospital</title>
+      <link>https://www.blick.ch/fr/fr/suisse/romande/crans-montana-des-nouvelles-des-victimes-6-mois-plus-tard-id22072811.html</link>
+      <guid isPermaLink="false">wrs-6b6c9d125965abe9</guid>
+      <pubDate>Thu, 02 Jul 2026 05:11:07 +0000</pubDate>
+      <description>Six months after the fire that tore through Le Constellation bar in Crans-Montana on New Year's Day, 25 victims are still hospitalised, nine of them in Switzerland. Families who lost children have set up two new foundations — Fondation Dalia and Fondation Alix Perroud, in memory of two 15-year-old friends killed in the blaze — to support survivors and humanitarian causes. Agata, a Sion teenager burned over 65% of her body, has just returned home after four skin grafts and a month in a coma. She told Blick she still cannot accept what happened, but hopes to resume school in September. Other families have launched crowdfunding campaigns to cover legal, medical and funeral costs.</description>
+      <content:encoded><![CDATA[<p>Six months after the fire that tore through Le Constellation bar in Crans-Montana on New Year's Day, 25 victims are still hospitalised, nine of them in Switzerland. Families who lost children have set up two new foundations — Fondation Dalia and Fondation Alix Perroud, in memory of two 15-year-old friends killed in the blaze — to support survivors and humanitarian causes. Agata, a Sion teenager burned over 65% of her body, has just returned home after four skin grafts and a month in a coma. She told Blick she still cannot accept what happened, but hopes to resume school in September. Other families have launched crowdfunding campaigns to cover legal, medical and funeral costs.</p>]]></content:encoded>
+    </item>
   </channel>
 </rss>
